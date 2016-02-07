@@ -1,0 +1,6 @@
+[
+ {
+   "repository": "android_kernel_huawei_angler-common",
+   "target_path": "kernel/huawei/angler-common"
+ }
+]
