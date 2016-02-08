@@ -32,6 +32,7 @@ TARGET_2ND_CPU_VARIANT := cortex-a7
 ENABLE_CPUSETS := true
 
 TW_THEME := portrait_hdpi
+DEVICE_RESOLUTION := 1440x2560
 
 # Inline kernel building
 BOARD_KERNEL_IMAGE_NAME := Image.gz-dtb
